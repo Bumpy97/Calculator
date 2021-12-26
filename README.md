@@ -1,2 +1,2 @@
 # Calculator
-Calculator on C#
+A simple calculator written in c# and using windows forms.
